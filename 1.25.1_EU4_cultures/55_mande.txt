@@ -1,0 +1,113 @@
+mande = {
+	graphical_culture = africangfx
+	mali = {
+		primary = MAL
+		dynasty_names = {
+			Keita Sama
+		}
+		male_names = {
+			"Mule" "Mamadu" "Al-Hajj" "'Ali Zalil" "Muhammad" "Da'ud" "Bakari" "'Abd al-Rahman" "Bakr" "Al-Mukhtar" 
+			"Mahmud" "Majan" "Birahim" "'Ali" "Amada Sire" "Nguia" "Bubu" "Ilo" "Kanta" "Al-Mansur" "'Ammar" "Sa'ud 'Arjud"
+			"Haddu" "Sa'id" "Dhu al-Nun" "'Abd Allah" "Nasr" "Yahya" "Sanibar" "Hammadi" "'Abbas" "Benkano" 
+			"Zenka" "Mami" "Ba-Bakribin" "'Abd al-Qadir" "Yusuf" "Santa'a" "Al-Fa' Ibrahim" "Sandaki" 
+		}
+		female_names = {
+			"Amna" "Ghadir" "Latifa" "Maha" "Ranya" Ibtisam Isra Karima Kera Khadija Layla Malika Mariam Maria Munya 
+			Munia Nadia Naila Nur Rafiqa Rahat 
+		}
+	}
+	songhai = {
+		primary = SON
+		dynasty_names = {
+			Askia Sonni 
+		}
+		male_names = {
+			"Muhammad" "Karbifo" "Mar Fai" "Mar-Arkana" "Mar Arandan" "Sulaymân" "`Alî Ber" "Bakarî" "Mûsâ" "Ismâ`îl" 
+			"Ishâq" "Dâ`ûd" "Nûh" "Hârûn" "al-Amîn" "Hanga" "Samsu" "Harangi" "Silman" "Abu Bakr" "Fodi Mayrumfa"	 
+			"Al-Mustafa" "Harun" "Tomo" "Bassaru Missi" "Bumi" "Koyze Baba" "Wankoy" "Mar Kiray" "Bakr Zanku" "Salman" 
+			"Birahim" "Hammadi" "Al-Mansur" "`Ammar" "Sa`id" "`Abd Allah" "Nasr" "Yahya" "Yusuf" 
+		}
+		female_names = {
+			"Amna" "Ghadir" "Latifa" "Maha" "Ranya" Ibtisam Isra Karima Kera Khadija Layla Malika Mariam Maria Munya 
+			Munia Nadia Naila Nur Rafiqa Rahat 
+		}
+	}
+	soninke = {
+		primary = ZAF
+		dynasty_names = {
+			Ghana Diarisso Kante
+		}
+		male_names = {
+			"Barama N'Golo" "Danfasri" "Suma" "Denkoro" "Bakari" "Ton Mansa Demele" "Kera Djugu" "Monson" "Tonkomo" 
+			"Fa Sine" "Da Kaha" "Tyefolo" "Nga Ngolo" "Sunsa" "Massa" "Sekolo" "Forokolo" "Seba Mana" "Deni ba Bo" 
+			"Sira Bo" "Dessekoro" "Saraba" "Nntinkoro" "Nanka" "Daoula" "Yadega" "Yolomfaogoma" "Kourita" "Geba" 
+			"Wobgho" "Saaga" "Kaongo" "Dulugu" "Sawadogo" "Karfo" "Baongo" "Tontuoriba"
+		}
+		female_names = {
+			"Tabara" "Gaisiri" "Bello" "Diallo" "Nyako" Endana Gethera Hinya Ikeno Inira Inithia Itanya Jamba Kakena 
+			Kenja Kenithia Kenura Kiama Kiania Kianira Kiira Kirima Muney Muraty Oyana Therania Tia
+		}
+	}
+	bambara = {
+		primary = SOF
+		dynasty_names = {
+			Coulibaly Diarra Massassi
+		}
+	}
+	bozo = {
+		primary = JNN
+		dynasty_names = {
+			Konboro Seku
+		}
+		male_names = {
+			"Barama N'Golo" "Kaladyan Kulibaly" "Danfasri" "Suma" "Biton Mamari" "Denkoro" "Bakari" "Ton Mansa Demele" 
+			"Kanyuba Nyama" "Kera Djugu" "N'Golo Diara" "Monson" "Tonkomo" "Fa Sine" "Da Kaha" "Tyefolo" "Nga Ngolo" 
+			"Sunsa" "Massa" "Sekolo" "Forokolo" "Seba Mana" "Deni ba Bo" "Sira Bo" "Dessekoro" "Saraba" "Nntinkoro" 
+			"Nanka" "Daoula" "Yadega" "Yolomfaogoma" "Kourita" "Geba" "Wobgho" "Saaga" "Kaongo" "Dulugu" "Sawadogo" 
+			"Karfo" "Baongo" "Tontuoriba"
+		}
+		female_names = {
+			"Masego" "Sekai" "Tsholofelo" Boipelo Boitumelo Dikeledi Itumeleng Kagiso Katlego Kefilwe Lesedi Neo 
+			Refilwe Sethunya Tumelo
+		}
+	}
+	dyola = {
+		primary = KNG
+		dynasty_names = {
+			Gorogo Wattara
+		}
+		male_names = {
+			"Agyen Kokobo" "Ofusu Kwabi" "Oduro" "Ado" "Otumfo Asare" "Yanza" "Ansa Saseraku" "Akotia" "Abuako Dako" 
+			"Afera Kuma" "Manukure" "Akwamno Panyini" "Dako Booman" "Mnumunumfi" "Werempe Ampem" "Boa Amponsem" 
+			"Ntim Gyakari" "Boado Ahafo Berempon" "Kyei Akobeng" "Amoako Atta Panyin" "Gyan Badu" "Amoako Atta Kuma" 
+			"Amoako Atta Yiadom" "Owusu Bori" "Kwadwo Tibu" "Kwakye Fram" "Kwesi Kyei" "Nkwantabisa"
+		}
+		female_names = {
+			Adaeze Adanna Adannaya Akachi Akuchi Amaka Schiamaka Amara Amarachi Añuli Chi Chiamaka Chibueze Chibuike Chibuzo 
+			Chichi Chidi Chidiebere Chidiebube Chidiegwu Chidimma Chijindum Chika Chike Chikelu Chikere Chinasa Chinedu Chinonso 
+			Chinwe Chinweike Chinwendu Chinweuba Chinyelu Chinyere Chioma Chizoba Ebele Ekene Ekenedilichukwu Fumnanya Funanya 
+			Ndidi Ngozi Nkechi Nkechinyere Nkemdilim Nkiru Nkiruka Nneka Nnenna Nnenne Nwanneka Ogechi Ogechukwukama Oluchi 
+			Onyeka Onyekachi Onyekachukwu Udo Uzoma
+		}
+	}
+	male_names = {
+		Abi-Bakr Abubakari Akoi Alayaman Ali Ali Ali-Fay Ali-Kolon Ali-Zalil Badä Bakr Bakr-Kanbu Bamari Bankanu
+		Bannu Bassarou Bassi Birama Bisi Biyu Bonga Cisse Dankaran Daoud David Dawud David Demba Diara Düru
+		Faga-Laye Fatta Fodi Fuluku Fädazu Gane Gao Hargani Harun Igoumou Ishaq Isaac Ismail Ismail Kabayo Kalabi Kambine
+		Kanafa Kassa Kasseï Kaya Kayna Kinkin Kisha Kodama Koïzé Kukuray Kusoy Lahiltoul M'Bali Maammarou Maghan
+		Mahmud Mahmud Majan Malla Mamadi Mamoudou Manding-Bory Mari-Djata Maÿroumfa Missi-Izé Morobani Musa Moses
+		Nintasanay Nuh Ouali Ouankoÿ Ouati Reidja Sakoura Salman Solomon Samsou-Béri Samsou-Keïna Sandaki Soumaba
+		Soumaoro Soundiata Sulayman Solomon Takoi Tib Tomo Thomas Tunka Umar Umar Yama Yaqub Jacob Yasiboy Zakoi Zenku
+	}
+	female_names = {
+		Adja Aichata Aissata Alima Aminata Amita Aoua Barakissa Bintou Deye Djeneba Djenly Djire Fadima
+		Fatim Fatoumata Halima Hawa Ina Kadi Kilia Kolonkan Lorane Mariam Nafissa Namandjé Namiss Nana
+		Safiatou Salimata Sassouma Sidibé Siya Sogolon Tekhaye Youma Zeïnab
+	}
+	dynasty_names = {
+		# CKII
+		"Cisse" "Diarisso" "Keita" "Bereté" "Kédjou" "Moussa" "Zuwa" "Sonni" "Askiya" "Konare" "Traoré" "Modibo" "Toumani" 
+		"Gurmanche" "Buricimba" "Nungu" "Mossi" "Habe" "of Zarma" "of Gurma" "of Djenne" "of Bambuk" "Ezekoye" "Sahara" 
+		"Oualata" "Bambuk" "Gurma" "Djenné" "Tadmekka"
+	}
+}

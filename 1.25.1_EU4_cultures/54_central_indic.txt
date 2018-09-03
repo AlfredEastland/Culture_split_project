@@ -1,0 +1,99 @@
+central_indic = {
+	graphical_culture = indiangfx
+
+	gondi = {
+		primary = GDW
+		dynasty_names = {
+			"Chanda" "Raj Gondi" "Kherli" "Deogadhi" "Ballar Sahi" "Haihaya" "Gadhi"
+		}
+		male_names = {
+			"Narsingh Rai" "Arjuna Simha" "Sangrama Simha" "Daipat Simha" "Vir Narayana" "Chandra Sahi" "Hirde" 
+			"Madhukara Sahi" "Dhundya Ram Sah" "Krasna Sah" "Bir Sah" "Hiradi" "Ram Sah" "Nilkanth Sah" "Chanda" "Bahkt Buland" "Bhuma" "Lokba" "Babji" "Dhundya" "Kondya" "Ram" "Krasna"
+		}
+		female_names = {
+			"Durgavati" "Hirai" "Ratna Kuvar"
+		}
+	}
+	garjati = {
+		primary = GRJ
+		dynasty_names = {
+			"Nagavamsi" "Sankara" "Bhuyavamsha" "Gangabansi" "Bhanja" "Karan" "Keshari" "Suryavanshi" "Baghal"
+		}
+		male_names = {
+			"Haria" "Jugasai" "Pratapnayan" "Harirudra" "Anku" "Raghunath" "Biswambhar" "Raisingh" "Dusmant" 
+			"Pratap Deo" "Padman" "Khadag Rai" "Yuvaraj" "Birabar" "Harichandra" "Gopinath" "Raghuraj" "Haria" 
+			"Bishwanath" 
+			"Rai" "Sunder" "Krishna" "Barman" "Biwarta" "Jagannath" "Narayana" "Bebarta" "Chandra" "Damodar" "Jadunath" 
+			"Pradeep"
+		}
+		female_names = {
+			"Giriraj" "Suratarangini Devi" "Malavika Devi"
+		}
+	}
+	jharkhandi = {
+		primary = NGP
+		dynasty_names = { "Porohat" "Nagavamsi" "Raksel" "Munda" "Ho" "Bhuiyan" }
+		male_names = {
+			"Maharato" "Madhu Singh" "Durjan Sal" "Anant" "Medini" "Pratap" "Narendra Rudra" "Jaswant Singh" 
+			"Bahadur Singh" "Sheo Singh" "Ajit Singh" "Balbhadra Singh"
+		}
+		female_names = {
+			"Durgavati" "Hirai" "Ratna Kuvar"
+		}
+	}
+	female_names = {
+		Abha Abhilasha Aditi Aishwarya Akanksha Amala Amita Amit Amrita Amrit Ananda Anand Anandi Anand Ananta Anantha 
+		Ananta Anika Anik Anila Anil Anima Anita Anit Anjali Ankita Anuja Anuj Anupama Anupam Aparajita Aradhana Archana 
+		Arundhati Arya Asha Avani Avanti Bala Chanda Chandana Chandan Chandra Chandrakanta Chandrakant Chetana Chetan 
+		Damayanti Darshana Deepali Dipali Deepti Dipti Devi Devika Dipali Dipika Dipti Divya Draupadi Drupada Drishti Durga 
+		Esha Gauri Gita Gowri Gauri Gulshanpu Golshan Ila Inderjitp Pindrajit Indira Indrani Indra Indu Ihindra Jaswinderp 
+		Jaya Jayanti Jayanta Jayashri Jyothi Jyoti Jyotsana Jyotsna Kajal Kala Kali Kalpana Kalyani Kalyan Kamala Kamini 
+		Kanchana Kanta Kanti Karishma Kashi Kasi Kashi Kaur Kausalya Kaveri Kri Kavita Kiran Kirtida Kishori Kishor 
+		Kshitija Kshitij Kumari Kumara Kunti Lakshmi Lalita Lata Lavanya Laxmi Lakshmi Leela Lila Lila Lilavati Lina 
+		Lochana Lochan Madhavi Madhava Madhu Madhur Madhuri Mala Malati Malini Mandeepp Manisha Manju Manjula Manjusha Maya 
+		Meena Mina Meera Mira Mina Minali Mira Mitra Mithra Mohana Mohini Mridula Mukta Nalini Nandita Neela Nila Neelam 
+		Nilam Neha Niketa Nikita Nikhila Nikhil Nikita Nila Nilam Nilima Nirmalai Nirupama Nisha Nithya Nitya Nitika Nitya 
+		Padma Padmavati Padmini Pallavi Pallav Parvati Poornima Purnima Pratibha Pratima Preeti Priti Prema Prem Pritha 
+		Priti Priya Purnima Pushpa Rachana Rachna Rachana Radha Rajani Rajkumari Rajni Rani Rashmi Rati Ratna Ravinderp 
+		Pravindra Reena Rina Reshmi Reva Rina Ritika Riya Roshanp Roshanarap Roshnip Rukmini Rupinderp Sandhya Sanjana 
+		Sarala Saral Saraswati Sarika Sarita Sashi Shashi Sati Savitri Seema Sima Seeta Sita Seetha Sita Shailaja Shakti 
+		Shakuntala Shanta Shanthi Sshanti Shanti Sharmila Shashi Sheela Shila Shila Shivali Shiva Shobha Shreya Shri Shweta 
+		Shyama Shyamala Shyamal Siddhi Sima Sita Sitara Sona Sonal Sri Shri Sudarshana Sudarshan Sulabha Sumati Sunita 
+		Sunitha Suniti Susheela Sushila Sushila Swapna Swarna Swati Tara Trishna Uma Upasana Urvi Usha Ushas Usha Vasanti 
+		Vasanta Vasuda Vasudha Vasundhara Veda Vena Vidya Vijaya Vimala Vimal Vina Yami Yamuna Yami
+	}
+	male_names = {
+		Abhay Aditya Aditi Agni Ajeet Vajit Ajit Ajith Vajit Akash Akhil Amar Amit Amitabh Amrit Anand Ananta Ananth Ananta 
+		Anantha Vananta Anik Anil Aniruddha Anish Anit Ankur Anuj Anupam Aravind Aravinda Varavind Arjun Arjuna Arjuna Arun 
+		Aruna Aruna Arya Aseem Vasim Ashok Ashoka Ashoka Asim Avinash Azad Bala Baladeva  Baldev Baladeva Basantb Bvasanta 
+		Basub Bvasu Bharat Bharata Bharata Bhaskar Bhaskara Bhaskara Bijayb Bvijay Bijoyb Bvijay Bipinb Bvipin Bishen 
+		Vishnu Brahma Brijesh Brijesha Brijesha Buddha Chanda Chandan Chander Chandra Chandra Chandrakant Chetan 
+		Chiranjeevi Vchiranjivi Chiranjivi Damodar Damodara Damodara Dayaram Debdanb Bdevdan Deepak Dipaka Deo Dev 
+		Deodan Devdan Dev Devadas Devaraja Devdan Devdas Vdevadas Devraj Devaraja Dhananjay Dhaval Dili Dilipa Dilipa 
+		Dinesh Dipak Dipaka Dipaka Drupada Dulee Dilip Durait Ganesh Ganesha Ganesha Gautam Gautama Gautama Gotamas 
+		Geevarghese George Girish Girisha Girisha Gobind Govinda Gopal Gopala Gopala Gopinath Gopinatha Gopinatha Gotam 
+		Gotama Gotama Govind Govinda Govinda Gulshanu Golshan Harendra Hari Harinder Arendra Harish Arisha Harisha Harsha 
+		Harshad Harshal Inderjit Indrajit Inderpal Indrajit Isha Jagannath Jagannatha Jagannatha Jagdish Jagjit Jai Jay 
+		Jaidev Jaswinder Jay Jaya Jaya Jayant Jayanta Jayanta Jayendra Jaywant Jeetendra Vjitendra Jitender Jitinder Jyothi 
+		Sjyoti Jyoti Kailash Kalidas Kalidasa Kalidasa Kkali??? Kalyan Kalyana Kalyana Kama Kamal Kamala Kamala Kapil 
+		Kapila Kapila Karan Karna Karna Kavi Kiran Kishan Krishna Kishen Krishna Kishor Kishore Vkishor Kistna Krishna 
+		Krishna Kshitij Kumar Kumara Kumara Kunal Kunala Kunala Lakshman Lakshmana Lakshmana Lal Lalit Lalita Lalita Laxman 
+		Vlakshman Lochan Madhav Madhava Madhava Madhu Madhukar Madhur Mahavir Mahavira Mahavira Mahendra Mahesh Mahesha 
+		Mahesha Mahinder Mahendra Mandee Mani Maninder Manish Manu Mayur Mitra Mithra Mitul Mohan Mohana Mohana Mohandas 
+		Mmohana Mohinder Mahendra Mukesh Mukesha Mukesha Mukul Murali Nagendra Nala Nanda Narayan Narayana Narayana 
+		Narendra Narinder Narendra Naveen Vnavin Navin Neelam Vnilam Nikhil Nilam Ninad Niraj Nirav Nishant Nithya Vnitya 
+		Nitin Nitya Om Padma Pallab Allav Pallav Pankaj Ankaja Pankaja Parth Artha Partha Ritha Pitambar Itambara Pitambara 
+		Prabhakar Rabhakara Prabhakara Prabhat Prabhu Prabodh Pradee Radip Pradi Prakash Pramod Ramoda Pramoda Pran Pranav 
+		Pranay Prasad Prasanna Prata Pravin Prem Punit Purushottam Purushottama Rabindrab Bravindra Raghu Rahul Raj Raja 
+		Raj Rajender Rajendra Rajendra Rajesh Rajinder Rajendra Rajiv Rajneesh Vrajnish Rajnish Rakesh Ram Rama Rama 
+		Ramachander Ramachandra Ramachandra Ramakrishna Ramesh Ramesha Ramesha Rameshwar Rama Ranj Sranjit Ranjeet Vranjit 
+		Ranjit Ratan Vratna Rathna Ratna Ratna Ratnam Ratna Ravi Ravinder Ravindra Ravindra Rishi Rohan Rohit Roshan Sachin 
+		Samir Sandee Vsandip Sandi Sanjay Sanjaya Sanjaya Sanjeet Vsanjit Sanjeev Vsanjiv Sanjit Sanjiv Sankar Vshankar 
+		Saral Sashi Vshashi Satish Ssati Savitr Sekar Vshekhar Shahrukhu Shahrokh Shankar Shankara Shankara Shantanu Sharma 
+		Shashi Shekhar Shiva Shresth Shrinivas Shri Shripati Sshri Shrivatsa Shri Shyam Shyama Shyama Shyamal Shiva 
+		Siddharta Vsiddhartha Siddhartha Singh Skanda Subhash Sudarshan Sudhir Sujay Suman Sumantra Sundar Sundara Sundara 
+		Sunder Sundara Sunil Suraj Surendra Suresh Suresha Surinder Surendra Surya Sushil Sushila Sushila Swapan Swapna 
+		Swapnil Swaran Swarna Varghese Vasant Vasanta Vasu Venkat Venkata Vijay Vikram Vikrama Vikrama Vimal Vinay Vipin 
+		Vipul Vishal Vishnu Vivek Yama Yash 
+	}
+}

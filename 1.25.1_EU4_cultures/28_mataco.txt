@@ -1,0 +1,15 @@
+mataco = {	#Matacoan
+	graphical_culture = northamericagfx
+	
+	chacoan = {
+		male_names = {
+			Sopa Cayo Topa Coyllas Cusichaca Huachuri Huaypalcon Luyes Marcavilca
+		}
+		male_names = {
+			Kantuta Nina Ana Maiara
+		}
+		dynasty_names = {
+			Atlatl 
+		}
+	}
+}

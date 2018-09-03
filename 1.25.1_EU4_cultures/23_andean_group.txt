@@ -1,0 +1,74 @@
+andean_group = {
+	graphical_culture = southamericagfx
+	
+	inca = { # Quechua
+		primary = CSU
+		dynasty_names = {
+			Anquimarca Apo Atahualpa Atoc Atoc-Suqui Auqui-Huaman Canchari Chalcuchima Challco Chiaquitinta Chilche Colla-Topa 
+			Curiatao Cusi  Guacra Guaritito Guaritopa Huachuri Huaman Huascar Huaypalcon Illaquita Inquill Llicllic Maila Maras 
+			Marcavilca Mayta  Ninancoro Ozcoc Parinango Paucar Paullu Pomacapi Puma Pusca Puyu-Vilca Quilaco Quingallumbo 
+			Quintiraura Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
+		}
+		male_names = {
+			"Túpac Amaru" "Atahualpa" "Huáscar" "Huayna Cápac" "Manco Cápac" "Pachacútec" "Sayri Tupac" 
+			"Titu Cusi Yupanqui" "Túpac Hualpa" "Túpac Yupanqui" "Viracocha" "Yahuar Hacuac" "Inca Roca" 
+			"Anquimarca" "Marcavilca" "Sahuaraura" "Zambiza" 
+			"Atoc Sopa" "Cayo Topa" "Coyllas" "Cusichaca" "Guaritopa" "Huachuri" "Huaypalcon" "Luyes" 
+			"Ninan Cuyuchi" "Orco Varanca" "Pascac" "Pomaguala" "Pumi Sopa" "Quispe Titu" "Ruminavi" 
+			"Surandaman" "Taraque" "Tucuycuyche" "Usca Curiatao" "Villac Umu" "Yamqui Mayta" "Yupanqui" 
+			"Zopahua"
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+	aimara = {
+		primary = CRA
+		dynasty_names = {
+			Anquimarca Apo Atahualpa Atoc Atoc-Suqui Auqui-Huaman Canchari Chalcuchima Challco Chiaquitinta Chilche Colla-Topa 
+			Curiatao Cusi  Guacra Guaritito Guaritopa Huachuri Huaman Huascar Huaypalcon Illaquita Inquill Llicllic Maila Maras 
+			Marcavilca Mayta  Ninancoro Ozcoc Parinango Paucar Paullu Pomacapi Puma Pusca Puyu-Vilca Quilaco Quingallumbo 
+			Quintiraura Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
+		}
+		male_names = {
+			"Cari" "Colla Capac" "Chuqui Capac" "Tomás Katari" "Inti" "Amaru" "Katari" "Tunupa" "Tupac" "Illapa" 
+			"Anquimarca" "Atoc Sopa" "Cayo Topa" "Coyllas" "Cusichaca" "Guaritopa" "Huachuri" "Huaypalcon" 
+			"Marcavilca" "Ninan Cuyuchi" "Orco Varanca" "Pascac" "Pomaguala" "Pumi Sopa" "Quispe Titu" 
+			"Sahuaraura" "Surandaman" "Taraque" "Tucuycuyche" "Usca Curiatao" "Villac Umu" "Yamqui Mayta" 
+			"Zambiza" "Zopahua" "Luyes" "Yupanqui" "Ruminavi" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+	diaguita = {
+		primary = CCQ
+		dynasty_names = {
+			Caca Capayan Hualfin Paccioca Pular Quilme Aconquijas Anguinahao Tocpo Omaguaca
+		}
+		male_names = {
+			"Huanchicay" "Ficpam" "Viltipoco" "Tucuma" "Payo" "Anto" "Tino" "Aman" "Hualpa" "Fama" "Cafa" 
+			"Huilla" "Ismi" "Anco" "Chamijo" "Tancol" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+	chimuan = {
+		primary = CHM
+		dynasty_names = {
+			Guacricaur Tacaynamo Tiso Nancempinco Chilche Maras Luyes Maila Illa Rimac
+		}
+		male_names = {
+			"Anco Coyuch" "Caja Cimcim" "Chumun Caur" "Guaman Chumu" "Michan Caman" "Guari Cur" "Nancen Pico" 
+			"Tacaynamo" "Aiyotechapun" "Buvaovamu" "Caja Cápac" "Cama Bergu" "Chumtiku" "Cuyuchi" "Docoshamu" 
+			"Draytonamu" "Ehenymacu" "Felan Tamuc" "Gusmango" "Ilsayunamu" "Jotiantikaka" "Katitika" "Litun" 
+			"Melantonan" "Michan Chimor" "Muhton Belan" "Nartamamu" "Nehuametepun" "Opolcynamun" "Pacatmamu" 
+			"Puznaymun" "Relyen Padnu" "Seton Apac" "Seran Tugun" "Taracun" "Troynuremo" "Urtyantemu" 
+			"Yetuniamu" "Zergoetanu" "Orco" "Vetsalynun" 
+		}
+		female_names = {
+			Axomamma Cavillaca Kantuta Nina Ana Maiara
+		}
+	}
+}

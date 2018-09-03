@@ -1,0 +1,30 @@
+magyar = {
+	graphical_cultures = { easterngfx }
+
+	hungarian = {
+		graphical_cultures = { hungariangfx westernslavicgfx }
+
+		color = { 0.5 0.6 0.3 }
+
+		male_names = {
+			Ábel Ádárn Ágoston Álmos Árpád Õdön_Otto Alajos Ambrus András_Andrew Antal Attila Bálint Béla_Albert Balázs Benedek_Benedict Bernát_Bernard Bertók Bertalan Boldizsár Bonuslo
+			Borisz_Boris Csák Csaba Csongor Dénes Dömötör Dezsõ Domoszló Donát Elek Elemér Endre Ernõ Fulöp_Philip Ferenc_Francis Frigyes Gábor Gábriel_Gabriel Gáspár_Caspar Géza Gazsi
+			Gellért Gergely György_George Gyula Imre István_Stephen Izsák Jákob_Jacob János_John József_Joseph Jenõ Kálmán_Columba Károly_Charles Konrád_Conrad Kornél Kristóf_Christopher László_Ladislav Lázár_Lazarus Lõrinc Lajos_Louis
+			Lampert Levente Lukács Márk_Marcus Márton_Martin Máté Mátyás_Matthew Móric Mózes Mihály_Michael Miklós Nándor Orbán Oszkár Pál_Paul Péter_Peter Sámuel_Samuel Sándor_Alexander Salamon Saul Soma
+			Szilveszter_Silvester Tádor Tacsony Tamás_Thomas Tibor Tivadar Vazul Vencel_Vaclav Vilmos Zoltán Zsigmond_Sigmund Zsolt
+		}
+		female_names = {
+			Ágnes_Agnes Éva_Eva Adelaida_Adelaide Agáta_Agatha Amália_Amelia Angyalka Anikó Aranka Berta_Bertha Borbála Csilla Csillag Czenzi Dorottya_Dorothy Edit_Edith Emõke Emese Erika Erzsébet_Elizabeth Eszter
+			Etel Euphemia_Euphemia Gizella_Gisela Györgyi_Georgia Hajnal Hedwig_Hedwig Ibolya Ildikó Illona Irén_Irene Jácinta Józsa Júlia_Juliana Jolán Judith_Judith Kamilla_Camilla Katalin_Catherine Kinga Klára_Clara
+			Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde Luca Mária_Maria Márta_Martha Magdolna_Magdalena Margaréta_Margaret Margit Matild_Matilda Natália_Natalia Odola Orsolya Panni Piroska Rózsa_Rosa Sára_Sarah Sarolt
+			Skolasztika Sophia_Sophia Tundér Terezia_Teresa Viola_Viola Virág Zoltána Zsófia_Sophia Zsanett Zsuzsa
+		}
+		dynasty_name_first = yes
+		male_patronym = "fi"
+		prefix = no
+
+		allow_looting = yes
+
+		modifier = default_culture_modifier
+	}
+}

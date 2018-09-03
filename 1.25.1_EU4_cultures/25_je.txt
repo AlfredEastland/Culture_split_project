@@ -1,0 +1,27 @@
+je = {
+	graphical_culture = northamericagfx
+	charruan = {
+		primary = CUA
+		dynasty_names = {
+			Sénaqué Sira Gununusa Puyucahua Mataojo Igualdad Yaró Guenoa Bohané Minuan
+		}
+		male_names = {
+			Zapicán Abayubá Vaimaca Perú Senacua Tabaré Itanú, Yrupé, Jasymimbí, Tacuabé Vaimaca-Pirú
+		}
+		female_names = {
+			Bartira Potira Porasy Jougousa Azelene
+		}
+	}
+	ge = {
+		primary = TUA
+		dynasty_names = {
+			Aimoré Prajé Takrukrak Krekmún Ituêto Futikrak Gueren Gutucrac Mekmek Minhagiran Nakrehê Naknyanúk
+		}
+		male_names = {
+			Jandui Raoni Janduwy Caracara Kerioukeiou Karupoto
+		}
+		female_names = {
+			Bartira Potira Porasy Jougousa Azelene
+		}
+	}
+}

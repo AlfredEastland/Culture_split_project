@@ -1,0 +1,107 @@
+siouan = {
+	graphical_culture = northamericagfx
+	
+	dakota = {
+		primary = SIO
+		dynasty_names = {
+			Sichangu Oglala Itazipcho Hunkpapha Mnikhowozu Sihasapa Oohenunpa
+			Ihantkhunwan Ihankthunwanna Isanyathi Thithunwan Wichiyena
+			Wahpéthunwan Mdewakanthunwan Wahpéhute Sisithunwan 
+		}
+		male_names = {
+			Wabasha Petette Tartunkanasiah Keejee Tarsega Wamadetunka Wannata Kokomako Shacope Penision Etaseepa 
+			Wakauhee Poehapa Takewapa Tenchzepart Mascpulochastosh Tetekarmunch Wasaota Oeyakoca Maktowahkeark 
+			Matowayouwe Makatozaza Belotonkatanga Nakapagigi Maktosabichis Mewatanihanska Thathanka Iyotake 
+			Iyapato Thasunke Witko Maphiya Luta Hehaka Sapa Sinte Gleska Ite Omagazu Ogle Luta Mahpiya
+		}
+		female_names = {
+			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
+			Macha Magaskawee Makawee Mika Ojinjintka Ptaysanwee Shappa Skah Wichahpi Winona Zitkala Zonta Mina Tahcawin 
+			Talutah Wachiwi Wasula Weayaya Wichapi
+		}
+	}
+	nakota = {
+		primary = ASI
+		dynasty_names = {
+			Aegitina Bizibina Cephubi Canhdada Canhewincasta Canknuhabi Hudesabina Hebina Huhumasmibi Huhuganebabi
+			"Hen Atonwaabina" Inwantonwanbina Innianonbi Insaombi Indogahwincasta "Minisoee Swnkeebi" Minisatonwanbi
+			Osnibi Ptegabina Sunkcebi Sahiyaiyeskabi Snugabi Sihabi Tanidabi Tokanbi Tanzinapebina Unskaha Wadopabina 
+			Wadopahtonwan Wiciyabina Waziyamwincasta Wasinazinyabi Wokpanbi
+		}
+		male_names = {
+			Tepeeoska Wichawostaka Masgwahasid Chenka Kichipwot Stamixosok Emitahapiskinne Matapikomotziw 
+			Ayestipissimat Kissoum Pitahotocan Apawstamix Onistahpokah Netahkiteipimew Akakotos Stokimatis 
+			Pitahotiskin Stamixotakapiw Mastepitah Moyanymen Ekaskine Kayookosis Ponokahstamix Omaksisapop 
+			Pitahsiksinum Apawonistaw Attistahhawes Pitah Pitahonistah Kayetapo Mahtowewitko Toetahkiehnan 
+			Nochkpitshitoepish Sheohmantho Waywasecapow Otamakooewin Shapousetung Sukeman Misketo Etamepeton 
+			Kawasaskotrepahik Makoyekin Nesoauases Onistah Pitahannes
+		}
+		female_names = {
+			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
+			Macha Magaskawee Makawee Mika Ojinjintka Ptaysanwee Shappa Skah Wichahpi Winona Zitkala Zonta Mina Tahcawin 
+			Talutah Wachiwi Wasula Weayaya Wichapi
+		}
+	}
+	chiwere = {
+		primary = FOX
+		dynasty_names = {
+			Mesquakie Wagosh Asakiwakie Kickapoo Blackhawk Saukenuk Thakiwakie
+			Tama Osakis Etnataek Kickapougwoi Kithlipecanuk
+			"Jumping Fish" "Sun Fish" Bear Giger Lance Devil "Big Eagle"
+			Sturgeon Eagle "Blues Son" Plumbed "the Sioux" "Brave by Hazard"
+		}
+		male_names = {
+			"Keokuk Wapello" "Pierremaskin Muckkatwagout Namasosanamet" "Mackkatananamakee Pashchenene Wapasai" 
+			"Malasenokama Kechaswa" Catchacommu Waapaca Mataqua Paquampa Aquoqua Nemarqua Machenamau Pesotaka 
+			Mishecaqua Capontwa Mowhinin Omquo Wonakasa Nautakawa Makataimeshekia Wathohuck Choukeka Keesheswa 
+			Kenekuk Papiquan Pashepaho Lalyurva Hanshequarhiqua Outchequaka Quashquame Shamaga Weesaka 
+			Chekaqua Kataka Mecaitch Neshota Chagasort Pecama Namachewana Nanochaatasa Taimah Catchemackeseo
+			Keokuk Wapello Pierremaskin Muckkatwagout Namasosanamet Mackkatananamakee Pashchenene Wapasai
+			Malasenokama Kechaswa
+		}
+		female_names = {
+			Tasinasapewin Thasinamani Tasinahlahlawin Dohumme Chapa Chapawee Chumani Dowanhowee Ehawee Hantaywee Kimimela 
+			Macha Magaskawee Makawee Mika Ojinjintka Ptaysanwee Shappa Skah Wichahpi Winona Zitkala Zonta Mina Tahcawin 
+			Talutah Wachiwi Wasula Weayaya Wichapi
+		}
+	}
+	osage = {
+		primary = OSA
+		dynasty_names = {
+			Wazhaze Tsishu Pasueli Wahakolin Sansueli Wyota Picayune Koholo Neodesha
+			Owasso Pawhuska Niukonska Doppike Neosho Chetopa Hominy Pahusan 
+		}
+		male_names = {
+			Teshuhimga Gradamnsa Caygaywachepeche Couchestawasta Mahsa Wanougpacha Hurate Wasabatougga Nekaghre 
+			Mekewatanega Nangawahaegea Kemanha Papuisea Harachabe Pahelagren Tawangahuh Honencache Nichumali 
+			Voithevoihe Voithechinga Tavoingare Osogahe Voichinodhe Voinache Voinonpache Qhihiramaki 
+			Caygache Pahuroguesie Miaasa Manjaguida Mantsa Nicagaris Dogachinga Tavaingare Tavainthere Naguemani 
+			Nicanauthe Chonmelase Nenonbas Pograngue Cayque Nonpevoite Vesasche Tonchenanque Lihibi Grinache 
+			Nicouilbran Chonnonsogue Lisansandhe Mequaque Megahe Manhegare Meyhe Nudhetavoi Thecayque Voitasean 
+			Cahapiche Manhevoi Talechiga Pedhechiga Cheganonsas Nesaque Lolechinga Panenvoiguanda Tavoinhihi 
+			Mithechinga Manquesi Chingavoisa Talevoile Voiengran Scamani Nurahague Mechinga Pachigue Roudanique 
+			Voibisandhe Nehizanga Nehudhe Pagranque Chahetonga Manguepeemani Voibalune Poneavoitaniga Taslondhe 
+			Nendogualui voibahe Onhehomani Nuranin Noguinilayque Nanlatoho Bashemindhe Savoi Chouquemonnon 
+			Manilourana Nequevoile Chonguehanga Ponlachinga Aguigueda Voidoguega Sindhe Ninchagari Voidhadani 
+			Quinihonigue Nognithechinga Natanhi Ousabe Voichinouthe Amanpasse Cutsagabe Channahon Nonbasocri 
+			Pedhechinga Bassechinga Ponlavoitasuga Manyvoile Mandarihi Nepaste
+		}
+		female_names = {
+			Wakonsamoie Watoesa Sekaname Shonsegra Egraname Misae Niabi
+		}
+	}
+	catawba = {
+		dynasty_names = {
+			Owasso Pawhuska Niukonska Doppike Neosho Chetopa Hominy Pahusan Mesquakie Wagosh Asakiwakie Kickapoo Blackhawk 
+			Saukenuk Thakiwakie
+		}
+		male_names = {
+			Teshuhimga Gradamnsa Caygaywachepeche Couchestawasta Mahsa Wanougpacha Hurate Wasabatougga Nekaghre 
+			Mekewatanega Nangawahaegea Kemanha Papuisea Harachabe Pahelagren Tawangahuh Honencache Nichumali 
+			Voithevoihe Voithechinga Tavoingare Osogahe Voichinodhe Voinache Voinonpache Qhihiramaki
+		}
+		female_names = {
+			Wakonsamoie Watoesa Sekaname Shonsegra Egraname Misae Niabi
+		}
+	}
+}
